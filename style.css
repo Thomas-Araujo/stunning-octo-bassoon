@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#objects
+{
+font-size: 18px;
+}
+body
+{
+background-size: cover;
+background-position: center;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px gainsboro;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#objects
+{
+    font-size: 25px;
+    border-radius: 20px;
+    color: black;
+    background-color: yellow;
+    width: 165px;
+}
+#back
+{
+    float: right;
+    margin-top: 25px;
+    color: yellow;
+    background-color: black;
+}
